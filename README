@@ -1,0 +1,12 @@
+## wallet-keys
+
+### A simple tool to generate Stacks accounts
+
+credit to @aulneau https://discord.com/channels/621759717756370964/623217767356694547/874292892540231681
+
+No error checking and no guarantees.  If you lose money, contracts, wealth, fame, your partner, its your fault.
+
+#### Using
+
+1. Add your secret key to the environment (example: `export SECRETKEY="one two three four ..."`)
+2. `node index.js`
